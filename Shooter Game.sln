@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shooter Game", "Shooter Game\Shooter Game\Shooter Game.csproj", "{AA0B8F93-7BC6-4663-AA2C-0E0404926DAB}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Shooter GameContent", "Shooter Game\Shooter GameContent\Shooter GameContent.contentproj", "{29C105F0-E0BC-4C08-B04C-492AF863CBA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA0B8F93-7BC6-4663-AA2C-0E0404926DAB}.Debug|x86.ActiveCfg = Debug|x86
+		{AA0B8F93-7BC6-4663-AA2C-0E0404926DAB}.Debug|x86.Build.0 = Debug|x86
+		{AA0B8F93-7BC6-4663-AA2C-0E0404926DAB}.Release|x86.ActiveCfg = Release|x86
+		{AA0B8F93-7BC6-4663-AA2C-0E0404926DAB}.Release|x86.Build.0 = Release|x86
+		{29C105F0-E0BC-4C08-B04C-492AF863CBA8}.Debug|x86.ActiveCfg = Debug|x86
+		{29C105F0-E0BC-4C08-B04C-492AF863CBA8}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
